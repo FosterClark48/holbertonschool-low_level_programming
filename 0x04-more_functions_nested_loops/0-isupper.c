@@ -2,7 +2,7 @@
 /**
 *_isupper - Used to find total no. of uppercase in sentence
 *@c: upper case
-*Return: 1 if found and 0 if not
+*Return: (1) if found and (0) if not
 */
 int _isupper(int c)
 {
