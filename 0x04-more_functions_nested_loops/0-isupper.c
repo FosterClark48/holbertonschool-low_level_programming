@@ -4,7 +4,7 @@
 *@c: upper case
 *Return: 1 if found and 0 if not
 */
-int _isupper(int c);
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
