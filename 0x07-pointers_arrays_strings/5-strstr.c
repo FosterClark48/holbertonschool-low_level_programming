@@ -1,6 +1,4 @@
 #include "main.h"
-#include "_memcpy.c"
-#include "strlen.c"
 /**
 *_strstr - returns pointer to first occurence of str needle in str haystack
 *@haystack: pointer to string to be scanned
