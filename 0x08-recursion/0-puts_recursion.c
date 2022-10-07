@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_puts_recursion - 
+*_puts_recursion - prints string s, followed by \n
 *@s: String to be written
 *
 *Return: non-negative integer
