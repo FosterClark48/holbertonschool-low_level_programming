@@ -7,6 +7,11 @@
 #include <string.h>
 #include <stdarg.h>
 
+typedef struct print
+{
+	char *t;
+	void (*f)(va_list);
+} print_t;
 
 int _putchar(char);
 int sum_them_all(const unsigned int n, ...);
