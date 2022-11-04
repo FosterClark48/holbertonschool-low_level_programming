@@ -6,6 +6,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <limits.h>
+#include <string.h>
 
 /**
 * struct list_s - singly linked list
