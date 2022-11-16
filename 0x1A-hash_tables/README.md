@@ -7,7 +7,7 @@
 - What are the advantages and drawbacks of using hash tables
 - What are the most common use cases of hash tables
 
-## General requirements:
+## General requirements
 - Global variables are not allowed
 - C standard library is allowed
 - No more than 5 functions per file
@@ -45,7 +45,7 @@ typedef struct hash_table_s
      hash_node_t **array;
 } hash_table_t;
 ```
-## Additional information:
+## Additional information
 ### Python dictionaries
 > Python dictionaries are implemented using hash tables. When you will be done with this project, you will be able to better understand the power and simplicity of Python dictionaries. So much is actually happening when you type d = {'a': 1, 'b': 2}, but everything looks so simple for the user.
 
