@@ -68,6 +68,7 @@ Write a function that searches for a value in an array of integers using the [Li
 
 <details>
 <summary>
+
 ```
 0-main.c
 ```
@@ -139,6 +140,7 @@ Write a function that searches for a value in a sorted array of integers using t
 
 <details>
 <summary>
+
 ```
 1-main.c
 ```
